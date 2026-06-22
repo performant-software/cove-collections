@@ -1,25 +1,33 @@
 {
-  "teiUrl": "http://localhost:3789/public/1/tei_documents/goblin-market/tei",
+  "teiUrl": "https://api.faircopy.performant.studio/public/16/tei_documents/a-sonnet-is-a-moments-monument-358a783c-7f6d-4d7e-b7ea-c9061d8fdf1b/tei",
   "tagVocabulary": [
     {
-      "tagName": "Person",
+      "tagName": "Historical",
       "tagColor": "#8f33c1"
     },
     {
-      "tagName": "Place",
+      "tagName": "Linguistic",
       "tagColor": "#2a917b"
     },
     {
-      "tagName": "Insight",
+      "tagName": "Interpretative",
       "tagColor": "#29cae8"
     },
     {
-      "tagName": "Translate",
+      "tagName": "Cultural",
       "tagColor": "#be0836"
     },
     {
       "tagName": "Textual",
       "tagColor": "#ff0298"
+    },
+    {
+      "tagName": "Typo",
+      "tagColor": "#fc8403"
+    },
+    {
+      "tagName": "Punctuation",
+      "tagColor": "#af79e8"
     }
   ],
   "metadata": {

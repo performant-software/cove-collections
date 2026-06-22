@@ -1,25 +1,33 @@
 {
-  "teiUrl": "https://staging.faircopy.cloud/documents/the_old_nurses_story/tei",
+  "teiUrl": "https://api.faircopy.performant.studio/public/16/tei_documents/goblin-market-750a5766-7768-457a-8ded-54dde45acea0/tei",
   "tagVocabulary": [
     {
-      "tagName": "Person",
+      "tagName": "Historical",
       "tagColor": "#8f33c1"
     },
     {
-      "tagName": "Place",
+      "tagName": "Linguistic",
       "tagColor": "#2a917b"
     },
     {
-      "tagName": "Insight",
+      "tagName": "Interpretative",
       "tagColor": "#29cae8"
     },
     {
-      "tagName": "Translate",
+      "tagName": "Cultural",
       "tagColor": "#be0836"
     },
     {
       "tagName": "Textual",
       "tagColor": "#ff0298"
+    },
+    {
+      "tagName": "Typo",
+      "tagColor": "#fc8403"
+    },
+    {
+      "tagName": "Punctuation",
+      "tagColor": "#af79e8"
     }
   ],
   "metadata": {
